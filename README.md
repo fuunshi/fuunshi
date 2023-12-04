@@ -48,4 +48,4 @@
 
 ### My moronic stats T_T
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shinig0d&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fuunshi&theme=dark&background=000000)](https://git.io/streak-stats)
