@@ -10,6 +10,7 @@
 ### About me:
 - I am Pranil. Its a pleasure to meet you.
 - I like to dabble in every little things and maybe destroy it as a consequence.
+- Mail me at mail@pranilshrestha.com.np
 
 ---
 
@@ -22,6 +23,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="C" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="java" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40">
 </div>
 
 ---
