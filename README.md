@@ -35,8 +35,13 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="Oracle" height="40" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" height="40" width="40">
  -->
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,python,typescript,django,c,git,react,docker,tailwindcss,bootstrap,go,linux,php,mysql,postgresql,oracle,sqlite,bash)](https://skillicons.dev)
-
+<!--[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,python,typescript,django,c,git,react,docker,tailwindcss,bootstrap,go,linux,php,mysql,postgresql,oracle,sqlite,bash)](https://skillicons.dev)
+-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,python,typescript,django,c,git,github,react,docker,tailwindcss,bootstrap,go,linux,php,mysql,postgresql,oracle,sqlite,bash&perline=7" />
+  </a>
+</p>
 
 ---
 
