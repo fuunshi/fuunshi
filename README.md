@@ -39,7 +39,7 @@
 -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,javascript,html,css,typescript,django,c,git,github,react,docker,tailwindcss,bootstrap,go,linux,php,mysql,postgresql,oracle,sqlite,bash,cloudflare&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,javascript,html,css,typescript,django,c,git,github,react,docker,tailwindcss,bootstrap,go,linux,php,mysql,postgresql,firebase,sqlite,bash,cloudflare&perline=7" />
   </a>
 </p>
 
