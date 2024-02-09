@@ -33,7 +33,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" height="40" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="Oracle" height="40" width="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" height="40" width="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" height="40" width="40">>
  -->
 <!--[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,python,typescript,django,c,git,react,docker,tailwindcss,bootstrap,go,linux,php,mysql,postgresql,oracle,sqlite,bash)](https://skillicons.dev)
 -->
