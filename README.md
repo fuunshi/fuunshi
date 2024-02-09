@@ -14,7 +14,7 @@
 
 ## 🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools
   <br/>
-<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="40" width="40">
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="40" width="40">?
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" height="40" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" height="40" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" height="40" width="40">
